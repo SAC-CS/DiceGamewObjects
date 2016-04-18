@@ -11,3 +11,5 @@ public class ComputerRoll {
     }
     
 }
+
+// Please read about and add constructor.
